@@ -177,3 +177,5 @@ No frameworks required (vanilla JS is sufficient).
 Extendable (can later add 7-day forecasts, weather maps, etc.).
 
 OUTPUT IMAGE
+
+![Image](https://github.com/user-attachments/assets/19aebbfa-78b6-4707-a729-d3035eb0810a)
